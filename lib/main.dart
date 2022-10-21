@@ -33,7 +33,7 @@ class splashScreen extends StatelessWidget {
     return AnimatedSplashScreen(
       splash: Column(
         children: [
-          Image.asset("assets/logo_splashscren.png"),
+          Image.asset("assets/images/logo_splashscren.png"),
           const Text(
             "Wisata App",
             style: TextStyle(
